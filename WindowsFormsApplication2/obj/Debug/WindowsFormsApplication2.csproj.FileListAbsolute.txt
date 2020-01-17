@@ -1,0 +1,54 @@
+C:\vasia\для БД\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\vasia\для БД\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\DB.accdb
+C:\vasia\для БД\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\vasia\для БД\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\vasia\для БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\vasia\для БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\vasia\для БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\vasia\для БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\vasia\для БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\vasia\для БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\vasia\для БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\vasia\для БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\vasia\для БД\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+G:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+G:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+G:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\DB.accdb
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+E:\WindowsFormsApplication2 - копия\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+J:\WindowsFormsApplication2 - копия - копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+J:\WindowsFormsApplication2 - копия - копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+J:\WindowsFormsApplication2 - копия - копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\WindowsFormsApplication2 - копия - копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\WindowsFormsApplication2 - копия - копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\WindowsFormsApplication2 - копия - копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\WindowsFormsApplication2 - копия - копия - копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\WindowsFormsApplication2 - копия - копия - копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\WindowsFormsApplication2 - копия - копия - копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
